@@ -1,0 +1,5 @@
+- [ ] add sequelize
+- [ ] add table for meter_readouts
+- [ ] add meter_values model
+- [ ] transform meter_readouts to meter_values
+- [ ] add meter_daily_value - aggregate meter_values for mdv
